@@ -1,0 +1,14 @@
+venv/
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS
+.DS_Store
